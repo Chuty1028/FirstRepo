@@ -2,7 +2,10 @@
 
 # Agregando otro commit
 
-x = 10 
+
 y = 10
 
 x + y = 20
+
+x = 20 - y
+print("Hello World")
